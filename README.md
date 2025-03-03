@@ -2,4 +2,3 @@
 - 👀 I’m interested in start programming formaly
 - 🌱 I’m currently learning html, css, java and starting python
 - 💞️ I’m looking to collaborate on every project
-- 📫 How to reach me: +55 (44) 99944-2003 or augustopaguiar1@gmail.com
